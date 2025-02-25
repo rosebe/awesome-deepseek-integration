@@ -18,6 +18,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 ### アプリケーション
 
 <table>
+    <tr>    
+        <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
+        <td><a href="https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md">DeepChat</a></td>
+        <td>DeepChat は、強力な DeepSeek モデルを内蔵した完全に無料のデスクトップ インテリジェント アシスタントです。複数ラウンドの会話、オンライン検索、ファイルのアップロード、ナレッジ ベースなどの複数の機能をサポートします。</td>
+    </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/171659527?s=400&u=39906ab3b6e2066f83046096a66a77fb3f8bb836&v=4" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/quantalogic/quantalogic">Quantalogic</a> </td>
@@ -164,9 +169,26 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> 会話型Q&Aエージェントの構成システム、自ホスト型デプロイメントソリューション、および便利なオールインワンアプリケーションSDKを提供し、GitHubリポジトリのためのインテリジェントQ&Aボットをワンクリックで作成し、さまざまな公式ウェブサイトやプロジェクトに迅速に統合し、コミュニティのためのより効率的な技術サポートエコシステムを提供します。</td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/labring/FastGPT/refs/heads/main/.github/imgs/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://fastgpt.cn/ja">FastGPT</a> </td>
+        <td> 
+            FastGPT は大規模言語モデル（LLM）を基盤としたオープンソースAIナレッジベース構築プラットフォームで、DeepSeekやOpenAIなど様々なモデルをサポートしています。データ処理、モデル呼び出し、RAG検索、ビジュアルAIワークフロー設計などの導入即使用可能な機能を提供し、複雑なAIアプリケーションの構築を容易に実現します。
+        </td>
+   </tr>
+   <tr>
         <td> <img src="https://cdn.link-ai.tech/doc/CoW%20logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zhayujie/chatgpt-on-wechat">Chatgpt-on-Wechat</a> </td>
         <td> ChatGPT-on-WeChat (CoW) プロジェクトは、DeepSeek、OpenAI、Claude、Qwen など複数の LLM を、WeChat 公式アカウント、企業微信、飛書、DingTalk、ウェブサイトなどの一般的なプラットフォームやオフィスソフトにシームレスに統合できる柔軟なチャットボットフレームワークです。また、豊富なカスタムプラグインもサポートしています。 </td>
+    </tr>
+        <tr>
+        <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
+        <td>TigerGPT は、OpenAI に基づく最初の金融 AI 投資アシスタントで、虎のグループによって開発されています。TigerGPT は、投資家に対して、深い推理をサポートするオンライン Q&A サービスを提供することを目的としています。2025年2月18日、TigerGPT は DeepSeek-R1 モデルを正式に統合し、ユーザーにオンライン Q&A サービスを提供することで、深い推理をサポートします。 </td>
+    </tr>
+    <tr>
+        <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://hix.ai">HIX.AI</a> </td>
+        <td>DeepSeek を無料でお試しいただき、 HIX.AI で AI チャットを無制限にお楽しみください。AI チャット、ライティング、コーディングなどに DeepSeek R1 をご利用ください。今すぐ次世代の AI チャットを体験してください!</td>
     </tr>
 </table>
 
@@ -188,6 +210,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
         <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
     </tr>
+    <tr>
+        <td> <img src="docs/translate.js/assets/icon.png" alt="图标" width="64" height="auto" /> </td>
+        <td> <a href="docs/translate.js/README_ja.md">translate.js</a> </td>
+        <td>フロントエンド開発者向けのAI i 18 n、2行のjsはhtmlの全自動翻訳を実現し、数十言語のワンクリック切り替えで、ページを変更する必要がなく、言語プロファイルがなく、数十個の微調整拡張命令をサポートし、SEOに友好的である。また、標準テキスト翻訳APIインタフェースを開放する</td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/agentUniverse/assets/agentUniverse_logo_s.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/antgroup/agentUniverse"> agentUniverse </a> </td>
+        <td> agentUniverseは、複雑なビジネスシーン向けに設計されたマルチエージェント協調フレームワークです。迅速で使いやすい大規模モデルのインテリジェントエージェントアプリケーション構築能力を提供し、特にエージェント間の協調スケジューリング、自律的な意思決定、動的なフィードバックなどのメカニズムに重点を置いています。これは、Ant Groupの金融業界における実践的なビジネス経験に基づいて開発されました。agentUniverseは、2024年6月にDeepSeekシリーズモデルのサポートを全面的に統合しました。  </td>
+    </tr>
 </table>
 
 ### RAG フレームワーク
@@ -207,6 +239,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://assets.zilliz.com/Zilliz_Logo_Mark_White_20230223_041013_86057436cc.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/zilliztech/deep-searcher"> DeepSearcher </a> </td>
         <td> DeepSearcher は、強力な大規模言語モデル（DeepSeek、OpenAI など）とベクトルデータベース（Milvus など）を組み合わせて、私有データに基づく検索、評価、推論を行い、高精度な回答と包括的なレポートを提供します。</td>
+    </tr>
+</table>
+
+### FHE フレームワーク
+
+<table>
+    <tr>
+        <td> <img src="./docs/fhe.mind-network/mind-network-log.png" alt="Icon" width="200" height="auto" /> </td>
+        <td> <a href="https://github.com/mind-network/mind-sdk-deepseek-rust"> Mind FHE Rust SDK </a> </td>
+        <td> <p>AI を<b>完全準同型暗号（FHE）</b>で暗号化し、<b>Mind Network</b> と統合してエージェントのコンセンサスを実現するオープンソース SDK。FHE は<b>暗号学の聖杯</b>とされており、<b>復号せずに</b>暗号化データ上で直接計算を実行できます。FHE を活用することで、エージェントは <b>Deepseek</b> を使用しながらプライバシーを保護し、モデルの整合性と計算結果の合意を確保できます。さらに、<b>データを一切公開することなく</b> <b>Mind Network</b> に接続することで、このプロセスが実現されます。この SDK の<a href="https://github.com/mind-network/mind-sdk-deepseek-rust">ソースコード</a> は<b>純 Rust</b> で実装されており、<a href="https://crates.io/crates/mind_sdk_deepseek">crates.io</a> からも入手可能です。</p></td>
     </tr>
 </table>
 
@@ -322,6 +364,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> VS Code で AI を使用して git commit message を生成するプラグイン。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/titusTong/seekCodeCopilot/blob/main/assets/SeekCodeCopilotLogo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/titusTong/seekCodeCopilot/blob/main/README.md"> SeekCode Copilot </a> </td>
+        <td> vscode インテリジェント コーディング アシスタントは、ローカルにデプロイされた DeepSeek モデルの構成をサポートします </td>
     </tr>
 </table>
 
@@ -447,5 +494,16 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://www.promptfoo.dev/img/logo-panda.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> LLMプロンプトをテストおよび評価し、DeepSeekモデルを含む。さまざまなLLMプロバイダーを比較し、回帰をキャッチし、応答を評価します。 </td>
+    </tr>
+    <tr>
+
+        <td> <img src="docs/ComfyUI-Copilot/assets/logo 2.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/AIDC-AI/ComfyUI-Copilot"> ComfyUI-Copilot </a> </td>
+        <td> Comfy-UIフレームワーク上に構築されたインテリジェントアシスタント。自然言語による対話を通じて、AIアルゴリズムのデバッグおよびデプロイプロセスを簡素化し、効率化します。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Optima-CityU/llm4ad/blob/main/assets/figs/logo_short.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> </td>
+        <td> <a href="https://github.com/Optima-CityU/llm4ad">LLM4AD</a> は、大規模言語モデル（LLM）を活用した自動アルゴリズム設計のための統一されたオープンソースのPythonベースのプラットフォームです。</td>
     </tr>
 </table>
